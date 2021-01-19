@@ -1,10 +1,10 @@
 
 # Chatbot with Encoder-Decoder model using LSTM
 
+![chatbot_2](https://user-images.githubusercontent.com/55879719/105046057-f4ecd000-5aab-11eb-9efa-45440e8583cc.gif)
+
 ![2TFstaticgraphic_alt-01](https://user-images.githubusercontent.com/55879719/105035831-fb287f80-5a9e-11eb-9c73-2c4998da7f42.png)
 ↑ image source: [Google AI Blog "Computer, respond to this email."](https://ai.googleblog.com/2015/11/computer-respond-to-this-email.html)
-
-![chatbot_2](https://user-images.githubusercontent.com/55879719/105046057-f4ecd000-5aab-11eb-9efa-45440e8583cc.gif)
 
 <br>
 
@@ -36,3 +36,13 @@ LSTM を用いた Encoder-Decoder モデルを訓練し、チャットボット�
 `chatbot_seq2seq_LSTM.ipynb` にて、モデルの構築と `chatbot()` の定義等を実行した上で、次のようにチャットボットを起動できる。
 
 ![chatbot_2](https://user-images.githubusercontent.com/55879719/105046057-f4ecd000-5aab-11eb-9efa-45440e8583cc.gif)
+
+<br>
+
+## Reference
+
+- [Goodfellow et al. (2016), Deep Learning](https://www.deeplearningbook.org/)
+- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+- [PyTorch Tutorial](https://pytorch.org/tutorials/beginner/chatbot_tutorial.html)
+- [Cornell Movie-Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
+

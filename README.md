@@ -43,6 +43,6 @@ LSTM を用いた Encoder-Decoder モデルを訓練し、チャットボット�
 
 - [Goodfellow et al. (2016), Deep Learning](https://www.deeplearningbook.org/)
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
-- [PyTorch Tutorial](https://pytorch.org/tutorials/beginner/chatbot_tutorial.html)
+- [PyTorch Tutorial](https://pytorch.org/tutorials/)
 - [Cornell Movie-Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 
